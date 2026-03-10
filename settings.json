@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "anarchiacbs.aternos.me:50663",
+    "ip": "anarchiacbs.aternos.me",
     "port": 50663,
     "version": "1.21.11",
     "try-creative": false
