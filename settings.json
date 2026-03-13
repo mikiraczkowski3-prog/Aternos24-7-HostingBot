@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "molly.aternos.host",
+    "ip": "anarchiacbs.aternos.me",
     "port": 50663,
-    "version": "1.21.11",
+    "version": "1.21.10",
     "try-creative": false
   },
   "position": {
