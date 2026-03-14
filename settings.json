@@ -2,13 +2,13 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "afkbot",
-    "password": "",
+    "password": "232",
     "type": "offline"
   },
   "server": {
     "ip": "anarchiacbs.aternos.me",
     "port": 50663,
-    "version": "1.21.11",
+    "version": "false",
     "try-creative": false
   },
   "position": {
