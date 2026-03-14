@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "anarchiacbs.aternos.me",
+    "ip": "slickhead.aternos.host",
     "port": 50663,
     "version": "false",
     "try-creative": false
